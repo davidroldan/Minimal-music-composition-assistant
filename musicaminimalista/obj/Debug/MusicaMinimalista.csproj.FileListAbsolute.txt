@@ -1,0 +1,189 @@
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+C:\Users\David\Dropbox\Universidad\TFG\MusicaMinimalista\MusicaMinimalista\bin\Debug\Antlr4.Runtime.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.pdb
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.xml
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.pdb
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.xml
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.dll
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.pdb
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.xml
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.SelectTimbre.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+C:\hlocal\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.ModulationVariationForm.resources
+C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.ModulationVariationForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.dll
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.pdb
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.xml
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.ModulationVariationForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.SelectTimbre.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+E:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.dll
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.pdb
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.xml
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.ModulationVariationForm.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+J:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.dll
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.pdb
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Svg.xml
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.ModulationVariationForm.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.SelectTimbre.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+H:\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe.config
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\Interop.WMPLib.dll
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\AxInterop.WMPLib.dll
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.ResolveComReference.cache
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.exe
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.pdb
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\MusicaMinimalista.exe
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\MusicaMinimalista.pdb
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\Svg.dll
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\Svg.pdb
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\Svg.xml
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\Interop.WMPLib.dll
+J:\Codigo Fuente\MusicaMinimalista\bin\Debug\AxInterop.WMPLib.dll
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.csprojResolveAssemblyReference.cache
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.DelayVariationForm.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.EditMotifForm.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.ModulationVariationForm.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.NoteValueVariationForm.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TonalTransportVariationForm.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Forms.TransportVariationForm.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.MainWindow.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.Properties.Resources.resources
+J:\Codigo Fuente\MusicaMinimalista\obj\Debug\MusicaMinimalista.csproj.GenerateResource.Cache

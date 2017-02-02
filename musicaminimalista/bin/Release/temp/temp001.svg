@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space='preserve' color="black"
+	width="518.20px" height="82.00px">
+<style type="text/css">
+.fill {fill: currentColor}
+.stroke {stroke: currentColor; fill: none;}
+</style>
+<title>C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaM (1) tune 1</title>
+<!-- Creator: abcm2ps-8.11.2 -->
+<!-- CreationDate: Sep 12, 2016 18:55 -->
+<!-- CommandLine: -c -g -w 431 -m 0 C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Release\temp\temp.abc -O C:\Users\David\Dropbox\Universidad\TFG\TFG_MusicaMinimalista\TFG_MusicaMinimalista\MusicaMinimalista\bin\Release\temp\temp.svg -->
+<g stroke-width="0.70">
+<path class="stroke"
+	d="M10.00 59.00h156.50m-156.50 -6h156.50m-156.50 -6h156.50m-156.50 -6h156.50m-156.50 -6h156.50"/>
+<defs>
+<path id="utclef" class="fill" d="m-50 -90
+	c-72 -41 -72 -158 52 -188
+	150 -10 220 188 90 256
+	-114 52 -275 0 -293 -136
+	-15 -181 93 -229 220 -334
+	88 -87 79 -133 62 -210
+	-51 33 -94 105 -89 186
+	17 267 36 374 49 574
+	6 96 -19 134 -77 135
+	-80 1 -126 -93 -61 -133
+	85 -41 133 101 31 105
+	23 17 92 37 90 -92
+	-10 -223 -39 -342 -50 -617
+	0 -90 0 -162 96 -232
+	56 72 63 230 22 289
+	-74 106 -257 168 -255 316
+	9 153 148 185 252 133
+	86 -65 29 -192 -80 -176
+	-71 12 -105 67 -59 124"/>
+<use id="tclef" transform="scale(0.045)"
+	xlink:href="#utclef"/>
+</defs>
+<use x="22.00" y="59.00" xlink:href="#tclef"/>
+<defs>
+<ellipse id="hd" rx="4.1" ry="2.9"
+	transform="rotate(-20)" class="fill"/>
+</defs>
+<use x="46.50" y="44.00" xlink:href="#hd"/>
+<path d="M43.00 44.00v21.00" class="stroke"/>
+<use x="86.50" y="41.00" xlink:href="#hd"/>
+<path d="M83.00 41.00v21.00" class="stroke"/>
+<use x="126.50" y="38.00" xlink:href="#hd"/>
+<path d="M123.00 38.00v21.00" class="stroke"/>
+</g>
+</svg>

@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A30C8D7-CD4A-41F1-B4EA-203E190E8ABA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MusicaMinimalista</RootNamespace>
+    <AssemblyName>MusicaMinimalista</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr4.Runtime, Version=4.5.1.0, Culture=neutral, PublicKeyToken=e78b2c5abd1fcb3f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\test\test\Antlr4.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Svg">
+      <HintPath>..\packages\Svg.2.1.0\lib\Svg.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\ModulationVariationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ModulationVariationForm.Designer.cs">
+      <DependentUpon>ModulationVariationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TonalTransportVariationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TonalTransportVariationForm.Designer.cs">
+      <DependentUpon>TonalTransportVariationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects\Actions\ChangeTempoAction.cs" />
+    <Compile Include="Objects\Actions\DeleteTrackAction.cs" />
+    <Compile Include="Objects\Actions\SetTimbreAction.cs" />
+    <Compile Include="Objects\Actions\SetVolumeAction.cs" />
+    <Compile Include="Objects\Actions\SplitMotifOnTrackAction.cs" />
+    <Compile Include="Objects\Actions\SplitMotifOnTreeViewAction.cs" />
+    <Compile Include="Objects\MediaPlayer.cs" />
+    <Compile Include="Objects\Music\Accidental.cs" />
+    <Compile Include="Objects\Music\Harmony.cs" />
+    <Compile Include="Objects\Music\Interval.cs" />
+    <Compile Include="Objects\Music\NoteFigure.cs" />
+    <Compile Include="Objects\Music\Variations\CanonizationVariation.cs" />
+    <Compile Include="Objects\Music\Variations\ElisionVariation.cs" />
+    <Compile Include="Objects\Music\Variations\HarmonizationVariation.cs" />
+    <Compile Include="Objects\Music\Variations\InterpolationVariation.cs" />
+    <Compile Include="Objects\Music\Variations\InversionVariation.cs" />
+    <Compile Include="Objects\Music\Variations\ModulationVariation.cs" />
+    <Compile Include="Objects\Music\Variations\PermutationVariation.cs" />
+    <Compile Include="Objects\Music\Variations\RachmaninoffInversionVariation.cs" />
+    <Compile Include="Objects\Music\Variations\RetrogradeVariation.cs" />
+    <Compile Include="Objects\Music\Variations\OrnamentationVariation.cs" />
+    <Compile Include="Objects\Music\Variations\TonalTransportVariation.cs" />
+    <Compile Include="Objects\Utils\AbcFileReader.cs" />
+    <Compile Include="Objects\Utils\AbcFileWriter.cs" />
+    <Compile Include="Controls\MotifTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\MotifTreeView.Designer.cs">
+      <DependentUpon>MotifTreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PlayList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\PlayList.Designer.cs">
+      <DependentUpon>PlayList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DelayVariationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DelayVariationForm.Designer.cs">
+      <DependentUpon>DelayVariationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditMotifForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditMotifForm.Designer.cs">
+      <DependentUpon>EditMotifForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NoteValueVariationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NoteValueVariationForm.Designer.cs">
+      <DependentUpon>NoteValueVariationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TransportVariationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TransportVariationForm.Designer.cs">
+      <DependentUpon>TransportVariationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects\Actions\AddTrackAction.cs" />
+    <Compile Include="Objects\Actions\InsertMotifAction.cs" />
+    <Compile Include="Objects\Actions\MoveMotifAction.cs" />
+    <Compile Include="Objects\Actions\ProgramAction.cs" />
+    <Compile Include="Objects\Actions\CreateMotifAction.cs" />
+    <Compile Include="Objects\Actions\DeleteMotifAction.cs" />
+    <Compile Include="Objects\Actions\RemoveMotifAction.cs" />
+    <Compile Include="Objects\Actions\RenameMotifAction.cs" />
+    <Compile Include="Objects\Actions\UntieMotifAction.cs" />
+    <Compile Include="Objects\Music\Timbre.cs" />
+    <Compile Include="Objects\Utils\AbcNoteParser.cs" />
+    <Compile Include="Objects\Utils\ColorUtil.cs" />
+    <Compile Include="Objects\Utils\ConsoleParser.cs" />
+    <Compile Include="Objects\Music\Chord.cs" />
+    <Compile Include="Objects\Controller.cs" />
+    <Compile Include="Objects\Music\Duration.cs" />
+    <Compile Include="Objects\Music\Motif.cs" />
+    <Compile Include="Objects\Music\MusicItem.cs" />
+    <Compile Include="Objects\Music\Note.cs" />
+    <Compile Include="Objects\Music\Tonality.cs" />
+    <Compile Include="Objects\Music\Track.cs" />
+    <Compile Include="Objects\Music\Tune.cs" />
+    <Compile Include="Objects\Music\Variations\CompositeVariation.cs" />
+    <Compile Include="Objects\Music\Variations\DelayVariation.cs" />
+    <Compile Include="Objects\Music\Variations\NoteValueVariation.cs" />
+    <Compile Include="Objects\Music\Variations\NullVariation.cs" />
+    <Compile Include="Objects\Music\Variations\TransportVariation.cs" />
+    <Compile Include="Objects\Music\Variations\Variation.cs" />
+    <Compile Include="Objects\Music\Voice.cs" />
+    <Compile Include="Objects\Utils\ProjectUtil.cs" />
+    <Compile Include="Objects\Utils\RNG.cs" />
+    <Compile Include="Objects\Utils\StringConstants.cs" />
+    <Compile Include="Parser\AbcNotationBaseListener.cs" />
+    <Compile Include="Parser\AbcNotationLexer.cs" />
+    <Compile Include="Parser\AbcNotationListener.cs" />
+    <Compile Include="Parser\AbcNotationParser.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\DelayVariationForm.resx">
+      <DependentUpon>DelayVariationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditMotifForm.resx">
+      <DependentUpon>EditMotifForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ModulationVariationForm.resx">
+      <DependentUpon>ModulationVariationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NoteValueVariationForm.resx">
+      <DependentUpon>NoteValueVariationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TonalTransportVariationForm.resx">
+      <DependentUpon>TonalTransportVariationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TransportVariationForm.resx">
+      <DependentUpon>TransportVariationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove-icon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
